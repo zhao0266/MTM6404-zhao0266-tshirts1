@@ -1,2 +1,8 @@
-# mtm6404-t-shirts
-This repository contains the starter files for the T-Shirts assignment
+# T-Shirts
+
+## Objective
+Use the Vue framework and the provided files to create a t-shirts store front.
+
+For full instructions, see [assignment page](http://www.imdac.github.io/mtm6404/assignments/t-shirts.html).
+
+
